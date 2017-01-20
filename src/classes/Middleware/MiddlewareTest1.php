@@ -1,11 +1,9 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: evis
- * Date: 1/20/17
- * Time: 12:14 PM
+ * Author: Evis Bregu
+ * Date: 01/20/2017
+ * Time: 16:00 PM
  */
-
 namespace Evis\Middleware;
 
 class MiddlewareTest1
